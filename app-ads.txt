@@ -1,0 +1,5 @@
+# app-ads.txt do Clockwork Cosmos
+# Troque pub-0000000000000000 pelo seu ID de editor do AdMob
+# (AdMob → Configurações → Informações da conta → ID do editor).
+# Este arquivo precisa ficar na raiz do domínio informado como "URL de marketing" na App Store.
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
